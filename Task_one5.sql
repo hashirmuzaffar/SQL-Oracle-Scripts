@@ -1,0 +1,1 @@
+select sysuser from dual;
